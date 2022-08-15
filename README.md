@@ -1,2 +1,2 @@
 # GeneralAssembly.prj1
-Project details: Assignment instructions
+Projects from dash.generalassembly.com
